@@ -1,2 +1,2 @@
 # Particle_physics
-Particle physics simulation using C++
+Particle physics simulation using C++ and SFML library
