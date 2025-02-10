@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/samee/OneDrive/Documents/visual_code/C++/Particle physics",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -std=gnu++20 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\samee\\OneDrive\\Documents\\visual_code\\C++\\Particle physics\\main.cpp\"",
+  "file": "C:/Users/samee/OneDrive/Documents/visual_code/C++/Particle physics/main.cpp"
+}
+]
